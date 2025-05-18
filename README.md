@@ -1,6 +1,6 @@
 # Предсказатель погоды
 
-![License](https://img.shields.io/github/license/VitalinaZlo/Trajectory-future2024_Weather_predictor?style=flat-square&label=License)
+![License](https://img.shields.io/github/license/VitalinaZlo/Trajectory-future2024_Weather_predictor?style=flat-square&label=License&color=e5573e)
 ![Python](https://img.shields.io/badge/build-3.11-brightgreen?style=flat-square&label=Python&color=52b4e5)
 ![Status](https://img.shields.io/badge/build-modifications-green?style=flat-square&label=Status&color=00c267)
 
