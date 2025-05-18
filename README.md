@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/VitalinaZlo/Trajectory-future2024_Weather_predictor?style=flat-square&label=License)
 ![Python](https://img.shields.io/badge/build-3.11-brightgreen?style=flat-square&label=Python&color=52b4e5)
-![Status](https://img.shields.io/badge/build-modification-green?style=flat-square&label=Status&color=00c267)
+![Status](https://img.shields.io/badge/build-modifications-green?style=flat-square&label=Status&color=00c267)
 
 **Weather Prediction** — это проект, разработанный для предсказания среднемесячной температуры на 2025 и последующие года с использованием нейросети, основанной на библиотеке `TensorFlow` и `Keras`. Проект включает обучение модели на исторических погодных данных за 2014–2024 годы и графическое приложение на `PyQt5` для удобного взаимодействия с моделью, визуализации результатов и управления обучением.
 
